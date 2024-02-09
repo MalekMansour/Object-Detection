@@ -7,4 +7,6 @@ Why?:
 How?:
 
 TODO: 
-pip install opencv-python numpy imutils
+* pip install opencv-python numpy imutils
+* Add rest of the file
+* Add screenshot
